@@ -1,29 +1,29 @@
 # Galacticraft Moon Language File = UNITED STATES ENGLISH
 
 # GENERAL ITEMS
-item.meteoricIronRaw.name=Raw Meteoric Iron
-item.compressedMeteoricIron.name=Compressed Meteoric Iron
-item.meteoricIronIngot.name=Meteoric Iron Ingot
+item.meteoricIronRaw.name=Nyers Meteori Vas
+item.compressedMeteoricIron.name=Préselt Meteori Vas
+item.meteoricIronIngot.name=Meteori Vas-Rúd
 
 # FOOD
-item.cheeseCurd.name=Cheese Curd
-item.cheeseBlock.name=Block of Cheese
+item.cheeseCurd.name=Olvasztott Sajt
+item.cheeseBlock.name=Sajtkorong
 
 # TOOLS
 
 # ARMOR
 
 # BLOCKS
-tile.moonBlock.moonstone.name=Stone
-tile.moonBlock.moondirt.name=Dirt
-tile.moonBlock.moongrass.name=Moon Turf
-tile.moonBlock.tinmoon.name=Tin Ore
-tile.moonBlock.coppermoon.name=Copper Ore
-tile.moonBlock.cheesestone.name=Cheese Ore
-tile.moonBlock.bricks.name=Bricks
-tile.cheeseBlock.name=Block of Cheese
+tile.moonBlock.moonstone.name=Kő
+tile.moonBlock.moondirt.name=Föld
+tile.moonBlock.moongrass.name=Holdpor
+tile.moonBlock.tinmoon.name=Ónérc
+tile.moonBlock.coppermoon.name=Rézérc
+tile.moonBlock.cheesestone.name=Sajtérc
+tile.moonBlock.bricks.name=Tégla
+tile.cheeseBlock.name=Sajtkorong
 
 # GUI
-gui.choosePlanet.desc.moon=Habitable#No Oxygen#Gravity: 18%
+gui.choosePlanet.desc.moon=Lakható#Nincs Oxigén#Gravitáció: 18%
 
-dimension.Moon.name=Moon
+dimension.Moon.name=Hold
