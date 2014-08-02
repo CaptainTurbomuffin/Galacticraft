@@ -80,7 +80,7 @@ tile.treasureT3.name=3 -s Szintű Kincsesláda
 tile.denseIce.name=Sűrű
 
 # GUI
-planet.asteroids=Asteroids
+planet.asteroids=Aszteroidák
 
 	# Dollar sign ($) will split text onto a new line
 	# Do not remove %s or %d, since that will be replaced in-game
