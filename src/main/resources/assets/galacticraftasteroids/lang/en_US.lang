@@ -1,111 +1,111 @@
 # Galacticraft Asteroids Language File = UNITED STATES ENGLISH
 
 # GENERAL ITEMS
-item.itemTier3Rocket.t3Rocket.name=Tier 3 Rocket
-item.heavyNoseCone.name=Heavy Nose Cone
-item.compressedTitanium.name=Compressed Titanium
-item.ingotTitanium.name=Titanium Ingot
-item.shardTitanium.name=Titanium Shard
-item.shardIron.name=Iron Shard
-item.rocketFinsT2.name=Heavy Rocket Fins
-item.engineT2.name=Heavy Rocket Engine
-item.reinforcedPlateT3.name=Heavy-Duty Plate
-item.grapple.name=Grapple
-item.atmosphericValve.name=Atmospheric Valve
-item.thermalCloth.name=Thermal Cloth
-item.beamCore.name=Beam Core
-item.tier3.desc=Tier 3
+item.itemTier3Rocket.t3Rocket.name=3 -As Szintű Rakéta
+item.heavyNoseCone.name=Nehéz Orrkúp
+item.compressedTitanium.name=Préselt Titánium
+item.ingotTitanium.name=Titániumrúd
+item.shardTitanium.name=Titániumszilánk
+item.shardIron.name=Vasszilánk
+item.rocketFinsT2.name=Nehéz Légterelőszárny
+item.engineT2.name=Nehéz Rakétahajtómű
+item.reinforcedPlateT3.name=Nehéz Borítólemez
+item.grapple.name=Fogó
+item.atmosphericValve.name=Légköri Szelep
+item.thermalCloth.name=Hővédő anyag
+item.beamCore.name=Sugárgerjesztő
+item.tier3.desc=3 -As Szintű
 
 # TOOLS
-item.titanium_pickaxe.name=Titanium Pickaxe
-item.titanium_axe.name=Titanium Axe
-item.titanium_hoe.name=Titanium Hoe
-item.titanium_shovel.name=Titanium Shovel
-item.titanium_sword.name=Titanium Sword
+item.titanium_pickaxe.name=Titánium Csákány
+item.titanium_axe.name=Titánium Balta
+item.titanium_hoe.name=Titánium Kapa
+item.titanium_shovel.name=Titánium Ásó
+item.titanium_sword.name=Titánium Kard
 
 # ARMOR
-item.thermalHelm.name=Thermal Padding Helm
-item.thermalChestplate.name=Thermal Padding Chestpiece
-item.thermalLeggings.name=Thermal Padding Leggings
-item.thermalBoots.name=Thermal Padding Boots
-item.titanium_helmet.name=Titanium Helmet
-item.titanium_chestplate.name=Titanium Chestplate
-item.titanium_leggings.name=Titanium Leggings
-item.titanium_boots.name=Titanium Boots
+item.thermalHelm.name=Hővédő Sisak-Bélés
+item.thermalChestplate.name=Hővédő Mellvért-Bélés
+item.thermalLeggings.name=Hővédő Lábszárvédő-Bélés
+item.thermalBoots.name=Hővédő Bakancs-Bélés
+item.titanium_helmet.name=Titánium Sisak
+item.titanium_chestplate.name=Titánium Mellvért
+item.titanium_leggings.name=Titánium Lábszárvédő
+item.titanium_boots.name=Titánium Bakancs
 
 # CANISTERS ETC
-item.methaneCanisterPartial.name=Methane Gas Canister
-item.methaneCanister.name=Filled Methane Gas Canister
-item.canister.gas.name=Gas                  #short name for Methane Gas contents level
-item.canister.LOX.partial.name=Canister of Liquid Oxygen
-item.canister.LOX.full.name=Filled Canister of Liquid Oxygen
-item.canister.LOX.name=LOX                  #short name for Liquid Oxygen contents level
-item.canister.liquidNitrogen.partial.name=Canister of Liquid Nitrogen
-item.canister.liquidNitrogen.full.name=Filled Canister of Liquid Nitrogen
-item.canister.liquidNitrogen.name=Liquid    #short name for Liquid Nitrogen contents level
-item.canister.liquidArgon.partial.name=Canister of Liquid Argon
-item.canister.liquidArgon.full.name=Filled Canister of Liquid Argon
-item.canister.liquidArgon.name=Liquid       #short name for Liquid Argon contents level
-item.emptyGasCanister.name=Empty Gas Canister
+item.methaneCanisterPartial.name=Nem Teljesen Töltött Metántároló
+item.methaneCanister.name=Teletöltött Metántároló
+item.canister.gas.name=Gáz                  #Metángáz töltöttségi szintje röviden
+item.canister.LOX.partial.name=Nem Teljesen Töltött Folyékony Oxigéntároló
+item.canister.LOX.full.name=Teletöltött Folyékony Oxigéntároló
+item.canister.LOX.name=FOTSZ                  #Folyékony Oxigén töltöttségi szintje röviden
+item.canister.liquidNitrogen.partial.name=Nem Teljesen Töltött Folyékony Nitrogéntároló
+item.canister.liquidNitrogen.full.name=Teletöltött Folyékony Nitrogéntároló
+item.canister.liquidNitrogen.name=Folyadék    #Folyékony Nitrogén Töltöttségi Szintje röviden
+item.canister.liquidArgon.partial.name=Nem Teljesen Töltött Folyékony Argontároló
+item.canister.liquidArgon.full.name=Teletöltött Folyékony Argontároló
+item.canister.liquidArgon.name=Folyadék       #Folyékony Argon Töltöttségi Szintje röviden
+item.emptyGasCanister.name=Üres Gáztároló
 
 # FLUIDS AND GASES
-fluid.methane.name=Methane Gas
-fluid.oxygen.name=Oxygen Gas
-fluid.nitrogen.name=Nitrogen Gas
-fluid.hydrogen.name=Hydrogen Gas
-fluid.carbondioxide.name=CO2 Gas
-fluid.helium.name=Helium Gas
-fluid.argon.name=Argon Gas
-fluid.atmosphericgases.name=Atmospheric Gases
-fluid.liquidmethane.name=Liquid Methane
-fluid.liquidoxygen.name=Liquid Oxygen
-fluid.liquidnitrogen.name=Liquid Nitrogen
-fluid.liquidargon.name=Liquid Argon
-fluid.fuel.name=Fuel
+fluid.methane.name=Metángáz
+fluid.oxygen.name=Oxigén-Gáz
+fluid.nitrogen.name=Nitrogén-Gáz
+fluid.hydrogen.name=Hidrogén-Gáz
+fluid.carbondioxide.name=Széndioxid-Gáz
+fluid.helium.name=Hélium-Gáz
+fluid.argon.name=Argon-Gáz
+fluid.atmosphericgases.name=Légköri Gázok
+fluid.liquidmethane.name=Folyékony Metán
+fluid.liquidoxygen.name=Folyékony Oxigén
+fluid.liquidnitrogen.name=Folyékony Nitrogén
+fluid.liquidargon.name=Folyékony Argon
+fluid.fuel.name=Üzemanyag
 
 # BLOCKS
-tile.asteroidsBlock.asteroid0.name=Asteroid Rock
-tile.asteroidsBlock.asteroid1.name=Asteroid Rock
-tile.asteroidsBlock.asteroid2.name=Asteroid Rock
-tile.asteroidsBlock.oreIron.name=Iron Ore
-tile.asteroidsBlock.oreIlmenite.name=Ilmenite Ore
-tile.asteroidsBlock.oreAluminum.name=Aluminum Ore
-tile.beamReflector.name=Energy Beam Reflector
-tile.beamReceiver.name=Energy Beam Receiver
-tile.telepadShort.name=Short Range Telepad
-tile.walkway.name=Walkway
-tile.walkwayWire.name=Walkway
-tile.walkwayOxygenPipe.name=Walkway
-tile.treasureT3.name=Tier 3 Treasure Chest
-tile.denseIce.name=Dense Ice
+tile.asteroidsBlock.asteroid0.name=Aszteroida-Szikla
+tile.asteroidsBlock.asteroid1.name=Aszteroida-Szikla
+tile.asteroidsBlock.asteroid2.name=Aszteroida-Szikla
+tile.asteroidsBlock.oreIron.name=Vasérc
+tile.asteroidsBlock.oreIlmenite.name=Ilmetin-Érc
+tile.asteroidsBlock.oreAluminum.name=Alumíniumérc
+tile.beamReflector.name=Lézersugár-Kibocsájtó
+tile.beamReceiver.name=Lézersugár-Vevő
+tile.telepadShort.name=Rövid-Hartótávú Teleporter
+tile.walkway.name=Sétalap
+tile.walkwayWire.name=Sétalap
+tile.walkwayOxygenPipe.name=Sétalap
+tile.treasureT3.name=3 -s Szintű Kincsesláda
+tile.denseIce.name=Sűrű
 
 # GUI
 planet.asteroids=Asteroids
 
 	# Dollar sign ($) will split text onto a new line
 	# Do not remove %s or %d, since that will be replaced in-game
-gui.telepad.desc.0=This is the Telepad's$unique address
-gui.telepad.desc.1=Address of another Telepad.$Entities will be sent there.
-gui.message.address.name=Address
-gui.message.destAddress.name=Target Address
-gui.message.invalidAddress.name=Invalid Unique Address
-gui.message.invalidTargetAddress.name=Invalid Target Address
-gui.message.receivingActive.name=Receiving Active
-gui.message.telepadTooFar.name=Target too far! (Max %d)
-gui.message.telepadWrongDim.name=Target is in wrong dimension!
-gui.message.telepadNotFound.name=Telepad Not Found!
-gui.message.sendingActive.name=Sending Active
-gui.message.range.name=Range: %dm
-gui.message.notEnoughEnergy.name=Not Enough Energy!
-gui.message.targetNoEnergy.name=Target doesn't have enough Energy!
+gui.telepad.desc.0=Ez a teleportáló$saját frekvenciája
+gui.telepad.desc.1=A célpont teleportáló$frekvenciája.
+gui.message.address.name=Saját Frekvencia
+gui.message.destAddress.name=Célpont Frekvenciája
+gui.message.invalidAddress.name=Érvénytelen saját frekvencia
+gui.message.invalidTargetAddress.name=Érvénytelen a célpont$frekvenciája
+gui.message.receivingActive.name=Érkezés folyamatban
+gui.message.telepadTooFar.name=Célpont túl messze. (Hatótáv: %d)
+gui.message.telepadWrongDim.name=A célpont érvénytelen dimenzióban van.
+gui.message.telepadNotFound.name=Teleporter nem találva
+gui.message.sendingActive.name=Küldés folyamatban
+gui.message.range.name=Hatósugár: %dm
+gui.message.notEnoughEnergy.name=Nincs elég elektromosság.
+gui.message.targetNoEnergy.name=A célpontnak nincs elég$elekttromossága
 
 # SCHEMATICS
 
 # ENTITIES
-entity.SmallAsteroidGC.name=Small Asteroid
-entity.GrappleHookGC.name=Grapple Hook
-entity.Tier3RocketGC.name=Tier 3 Rocket
+entity.SmallAsteroidGC.name=Kis Aszteroida
+entity.GrappleHookGC.name=Fogó
+entity.Tier3RocketGC.name=3 -As Szintű Rakéta
 
 # CONTAINERS
-container.shortRangeTelepad.name=Short Range Telepad
-container.entryPod.name=Entry Pod
+container.shortRangeTelepad.name=Rövid Hatósugrú Teleporter
+container.entryPod.name=Leszálló-Kapszula
